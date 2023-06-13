@@ -1,1 +1,1 @@
-# navbar
+# responsive navbar code snippet
